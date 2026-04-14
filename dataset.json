@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Maryland, US",
+  "export_job_id": "6c3e9628-256f-4f40-92c1-de655cec2b27",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 645144,
+  "location_name": "Maryland",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-maryland-us-sample-645144",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/645144/beamstation_645144_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_pct": 9.52,
+  "sample_records": 4,
+  "sample_sha256": "b4942db06903b95aac9056919f90481ea6452341b9dced5128200a4e0b3f70b7",
+  "sample_size_bytes": 29301,
+  "total_records": 42,
+  "updated_at": "2026-04-08T06:02:18.925610+00:00"
+}
