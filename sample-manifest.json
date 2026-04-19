@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6c3e9628-256f-4f40-92c1-de655cec2b27",
+  "export_job_id": "31d96f0d-1fc1-4f85-85b4-6b1be8513d74",
   "id_short": 645144,
-  "published_at": "2026-04-14T07:51:35Z",
+  "published_at": "2026-04-19T07:35:17Z",
   "repo_name": "tech-ready-restaurants-in-maryland-us-sample-645144",
   "sample_asset_name": "beamstation_645144_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/645144/beamstation_645144_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "b4942db06903b95aac9056919f90481ea6452341b9dced5128200a4e0b3f70b7",
-  "sample_size_bytes": 29301,
-  "total_records": 42
+  "sample_records": 2,
+  "sample_sha256": "a395c90357e8469757f9af58cccf92e014e5b37f970b769547e6f0768681bd5c",
+  "sample_size_bytes": 23298,
+  "total_records": 29
 }
